@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    background: #fce4ca;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.pro{
+ height: 100vh;
+ text-align: center;
+}
+
+p{
+ font-size: x-large;
+ padding: 15%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+    background: white;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
